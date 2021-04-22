@@ -1,2 +1,2 @@
 # Binary-Decimal-Converter
-This is a program to convert Binary to Decimal and Decimal to Binary
+This is a python program to convert Binary to Decimal and Decimal to Binary

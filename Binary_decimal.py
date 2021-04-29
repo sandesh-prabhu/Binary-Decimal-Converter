@@ -24,6 +24,6 @@ while 1:
         n=input("Decimal:")
         dtb(int(n))
     elif c==3:
-        break
+        break;;;;;
     else:
         print("Invalid Input")
